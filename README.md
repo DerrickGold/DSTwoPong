@@ -3,7 +3,7 @@
 A historical archive for a project I created prior to any formal programming education.
 
 
-![Alt text](/screenshots/10-9-27-23-15-31.png?raw=true "Title Menu"
+![Alt text](/screenshots/10-9-27-23-15-31.png?raw=true "Title Menu")
 ![Alt text](/screenshots/10-9-27-21-18-13.png?raw=true "In Game")
 
 

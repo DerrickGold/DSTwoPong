@@ -13,9 +13,9 @@ DS2 Pong
 By BassAceGold
 http://bag.nfnet.org/
 
----Installation---
--If you use Imenu, just copy the Imenu folder to the root of your card.
--If you use the default supercard menu, copy the _dstwoplug folder to the root of your card
+###Installation
+- If you use Imenu, just copy the Imenu folder to the root of your card.
+- If you use the default supercard menu, copy the _dstwoplug folder to the root of your card
 
 
 
@@ -46,7 +46,7 @@ ai.wav - sound effect for p2 paddle hit
 player.wav -sound effect for p1 paddle hit
 wall.wav - sound effect for wall hits
 
---Optional--
+###Optional
 bgm.wav - background music for skinning (repeats during game play)
 
 all sound effects must be in wave format - either 11025hz, 22050hz, or 44100hz 
@@ -55,14 +55,14 @@ and 16 bits or 8 bits (stereo and mono supported)
 
 
 
-Change log:
+###Change log:
 
 v1.01
--updated plugin icon
--added Imenu file system support
--fixed screenshots not capturing the win or lose graphics at end of the game
--added Irock23 's Halo skin. Release thread here ( http://forum.supercard.sc/thread-7217-1-1.html)
--added transparency support for paddles and ball - same color for number transparency (255,0,255)
+- updated plugin icon
+- added Imenu file system support
+- fixed screenshots not capturing the win or lose graphics at end of the game
+- added Irock23 's Halo skin. Release thread here ( http://forum.supercard.sc/thread-7217-1-1.html)
+- added transparency support for paddles and ball - same color for number transparency (255,0,255)
 
 
 v 1.0
